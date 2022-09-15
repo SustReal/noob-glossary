@@ -1,0 +1,14 @@
+Deutsch;Englisch;Bedeutung
+aufteilen;split;eine Zeichenkette z.B. bei Leerzeichen trennen u. d. Teile in eine Liste übertragen
+tiefe Kopie;deep copy;fortgeschrittenes Konzept: echte Kopie einer Liste erstellen anstatt eines Verweises,kann helfen, wenn beim Kopieren von Listen nicht das gewünschte Ergebnis eintritt
+Formatstring;format string;seit Python 3 mögliche vereinfachte Schreibweise, um Werte von Variablen direkt in Zeichenketten zu integrieren
+indizieren;index;Elemente von Zeichenketten und Listen über die Nummer ihrer Position ansprechen, z.B. den dritten Buchstaben eines Wortes anzeigen lassen
+Lambda-Funktionen;lambda functions;spezielle Kurzschreibweise für Funktionen, die helfen kann, Funktionen an speziellen Stellen im Code zu nutzen
+Obergrenze;ceil;zu einer Kommazahl die nächstgrößere ganze Zahl finden
+Typumwandlung;casting;den Datentyp einer Variable ausdrücklich festlegen oder verändern
+Untergrenze;floor;zu einer Kommazahl die nächstkleinere ganze Zahl finden
+Unterzeichenfolge;substring;ein Teil einer Zeichenkette
+verketten;concatenate;Zeichenketten aneinanderhängen
+Zeichenkette;string;mehrere Zeichen Text: einige Buchstaben (und/oder Zahlen), ein Wort oder ein Satz
+Zeilenumbruch (automatisch);(word) wrap;automatisches Anpassen eines Textes an seinen Container wie z.B. eine Spalte, eine Zelle oder ein Fenster 
+Zeilenumbruch (fest);line break;typische Fehlerquelle beim Arbeiten mit Textdateien, da Zeilenumbruchzeichen in den Text eingefügt werden
